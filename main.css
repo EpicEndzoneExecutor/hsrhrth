@@ -1,0 +1,30 @@
+/* Setting properties for the body */
+body {
+    background-color: #f0f0f0; /* Replace with your preferred background color */
+    color: #333333; /* Replace with your preferred text color */
+}
+
+/* Setting properties for the navigation */
+nav {
+    height: 60px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/* Setting properties for the footer */
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/* Setting properties for the #memeImage element */
+#memeImage {
+    margin-right: 200px;
+}
+
+/* Setting properties for the header */
+header {
+    text-align: center;
+}
